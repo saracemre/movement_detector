@@ -36,7 +36,7 @@ This project is a user-friendly web application that detects **camera movements*
 
 1. Upload all files to a GitHub repository.
 2. Go to [Streamlit Cloud](https://streamlit.io/cloud) and start a new app.
-3. Select `app.py` as the main file and deploy.
+3. Select `app.py` as the main file and deploy. \n
 App is online now: https://movementdetector-bkvmkpkkj4bsajfkjyd4rc.streamlit.app/
 
 ### Hugging Face Spaces
